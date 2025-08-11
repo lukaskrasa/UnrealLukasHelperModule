@@ -1,0 +1,28 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "LukasHelperModule",
+	"Description": "Just helping with boring stuff",
+	"Category": "Editor",
+	"CreatedBy": "Lukas Krasa",
+	"CreatedByURL": "unreal.lukaskrasa.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LukasHelperModule",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "LukasHelperModuleEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
