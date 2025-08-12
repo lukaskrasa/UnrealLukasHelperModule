@@ -2,9 +2,11 @@
 
 
 #include "LukasHelperLibrary.h"
-
 #include "LukasHelperModuleEditor.h"
+
+#include "Editor.h"
 #include "DataLayer/DataLayerEditorSubsystem.h"
+#include "Engine/SkeletalMesh.h"
 #include "WorldPartition/WorldPartition.h"
 #include "WorldPartition/WorldPartitionActorDescInstance.h"
 #include "WorldPartition/WorldPartitionHelpers.h"
